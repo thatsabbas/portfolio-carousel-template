@@ -4,16 +4,24 @@ A modern, mobile-first personal portfolio built with React, TypeScript, Tailwind
 
 ## Example Output
 
-https://www.abbasmoosavi.com/
+> **Live demo:** [abbasmoosavi.com](https://www.abbasmoosavi.com/)
 
-<img width="410" height="770" alt="image" src="https://github.com/user-attachments/assets/e2c4f418-14ca-48f3-a8c4-50cca4cbf33a" />
-Mobile
-
-<img width="913" height="753" alt="image" src="https://github.com/user-attachments/assets/e3eb68da-6b42-4862-a74f-861e7af60b8b" />
-Desktop
-
-<img width="752" height="749" alt="image" src="https://github.com/user-attachments/assets/8ee3ce62-5936-4c08-a377-685fdba3da63" />
-iPad
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Mobile</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/e2c4f418-14ca-48f3-a8c4-50cca4cbf33a" alt="Mobile view" width="280" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Desktop</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/e3eb68da-6b42-4862-a74f-861e7af60b8b" alt="Desktop view" width="480" />
+    </td>
+    <td align="center" width="33%">
+      <strong>iPad</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/8ee3ce62-5936-4c08-a377-685fdba3da63" alt="iPad view" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## Features
 
